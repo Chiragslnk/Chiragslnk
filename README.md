@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragslnk" alt="chiragslnk" /></a> </p>
 
-- 🔭 I’m currently working on [ColdEmail](https://github.com/Chiragslnk/Coldmail)
-
 - 🌱 I’m currently learning **and Explore Analytical and Research path**
 
 - 👨‍💻 All of my projects are available at [https://chiragslnk.github.io/portfolio/](https://chiragslnk.github.io/portfolio/)
